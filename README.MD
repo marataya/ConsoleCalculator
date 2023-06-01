@@ -1,5 +1,5 @@
 
-# Main
+# Console Calculator
 
 ## Задание
 
